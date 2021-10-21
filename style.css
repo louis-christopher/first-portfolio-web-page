@@ -7,27 +7,25 @@ h1 {
   
   h2 {
     font-size: 28px;
+    font-family: 'Architects Daughter';
+    text-align: center;
+  }
+
+  h3 {
+    font-size: 24px;
+    font-family: 'Architects Daughter';
+    text-align: center;
+  }
+
+  p {
+    color: #757575;
+    font-family: Arial, Helvetica, sans-serif;
   }
   
   .colored-text{
     font-size: 22px;
   }
   
-  h1, h2, .colored-text {
-    font-family: 'Architects Daughter', cursive;
-    color: #3f4c66;
-    text-align: center;
-  }  
-
-  h2 {
-    color: #484545;
-    font-family: Times, serif;
-  }
-  
-  p {
-    color: #757575;
-    font-family: Arial, Helvetica, sans-serif;
-  }
   
   .align-right {
     text-align: right;
