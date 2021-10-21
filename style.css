@@ -1,0 +1,57 @@
+h1 {  
+    font-size: 52px;
+    font-family: 'Architects Daughter';
+    padding-bottom: 4px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 28px;
+  }
+  
+  .colored-text{
+    font-size: 22px;
+  }
+  
+  h1, h2, .colored-text {
+    font-family: 'Architects Daughter', cursive;
+    color: #3f4c66;
+    text-align: center;
+  }  
+
+  h2 {
+    color: #484545;
+    font-family: Times, serif;
+  }
+  
+  p {
+    color: #757575;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .align-right {
+    text-align: right;
+  }
+  
+  .color-pop {
+    color: red;
+  }
+  
+  .text-centered {
+    text-align: center;
+  }
+  
+  .dark-background {
+    background-color: #1E1E1E;
+    color: white;
+  }
+  
+  .light-background {
+    background-color: #c8d2e0;
+    color: #1E1E1E;
+  }
+  
+  .wrapper {
+    width: 300px;
+    margin: auto;
+  }
