@@ -3,23 +3,34 @@ h1 {
     font-family: 'Architects Daughter';
     padding-bottom: 4px;
     text-align: center;
+    margin: 12%;
   }
   
   h2 {
     font-size: 28px;
     font-family: 'Architects Daughter';
     text-align: center;
+    height: 15%;
   }
 
   h3 {
     font-size: 24px;
     font-family: 'Architects Daughter';
     text-align: center;
+    background-color: darkorchid;
   }
 
   p {
     color: #757575;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+
+  .myText>p/*>accesses all element nested in an element,id, or class*/
+  {
+    margin: 0;
+    margin-bottom: 0;
+    padding: 14px 12px;
   }
   
   .colored-text{
