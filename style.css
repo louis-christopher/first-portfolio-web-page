@@ -26,9 +26,7 @@ h1 {
     text-align: center;
   }
 
-  ol, ul {
-    margin-left: 33%;
-  }
+  ol, ul { display: table; margin: 0 auto; }
 
 .bg-full-image {
   text-align: center;
