@@ -26,6 +26,13 @@ h1 {
     text-align: center;
   }
 
+  ul, il {
+    padding-left: 33%;
+  }
+
+.bg-full-image {
+  text-align: center;
+}
   .myText>p/*>accesses all element nested in an element,id, or class*/
   {
     margin: 0;
