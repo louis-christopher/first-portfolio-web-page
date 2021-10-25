@@ -26,8 +26,8 @@ h1 {
     text-align: center;
   }
 
-  ol {
-    padding-right: 33%;
+  ol, ul {
+    margin-left: 33%;
   }
 
 .bg-full-image {
