@@ -33,6 +33,8 @@ h1 {
 }
 
 
+
+
   .myText>p/*>accesses all element nested in an element,id, or class*/
   {
     margin: 0;
