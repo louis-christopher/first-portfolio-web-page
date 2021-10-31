@@ -26,12 +26,10 @@ h1 {
     text-align: center;
   }
 
-  ol, ul { display: table; margin: 0 auto; }
+  ol, ul { display: table; margin: 0 auto; a:link {
+  color: blue;
+} }
 
-    /* Hover state */
-a:hover {
-    color: black; 
-}
 
 .bg-full-image {
   /*get that photo to the middle!*/
