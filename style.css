@@ -26,9 +26,11 @@ h1 {
     text-align: center;
   }
 
-  ol, ul { display: table; margin: 0 auto; a:link {
+  ol, ul { display: table; margin: 0 auto; }
+
+a:link {
   color: blue;
-} }
+}
 
 
 .bg-full-image {
